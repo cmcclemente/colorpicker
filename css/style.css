@@ -1,0 +1,28 @@
+body {
+  background-color: #232323;
+  color: white;
+  text-align: center;
+}
+
+.square-container {
+  max-width: 600px;
+}
+
+.select-container{
+  width: 800px;
+}
+
+.square {
+  width: 30%;
+  background-color: purple;
+  margin: 1.66%;
+  padding-bottom: 30%;
+}
+
+.hide {
+  display: none;
+}
+
+.colorDisplay {
+  text-transform: uppercase;
+}
